@@ -1,0 +1,25 @@
+{
+    "category": "plugins",
+    "display": "String Convert",
+    "fields": {
+        "AAE": {
+            "caption": "String",
+            "default_val": "100q",
+            "doc": "",
+            "editor": "DynamicValue",
+            "long_text": false,
+            "name": "String",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAF": {
+            "caption": "Number",
+            "name": "Number",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side"
+}
